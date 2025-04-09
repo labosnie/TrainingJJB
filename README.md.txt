@@ -16,3 +16,10 @@ streamlit run app.py
 Ceci est la version 1 de l'app – simple mais fonctionnelle.
 Je vais l'améliorer progressivement avec plus de formats, de personnalisation et pourquoi pas du tracking d'historique.
 N'hésitez pas à revenir bientôt, ou à suivre le projet pour voir les évolutions 🔁
+
+## 🌐 Déploiement
+
+L'application est désormais disponible en ligne et accessible à tous via le lien suivant :  
+[TrainingJJB - Streamlit App](https://<ton-pseudo>-trainingjjb.streamlit.app)
+
+N'hésitez pas à tester et à donner des retours !
