@@ -6,7 +6,7 @@ import streamlit as st
 st.set_page_config(page_title="Générateur Cardio JJB", page_icon="🔥", layout="centered")
 
 st.title("🔥 Générateur de séances cardio JJB")
-st.markdown("**Optimise ton rameur ou assault bike pour devenir un monstre sur le tatami.**")
+st.markdown("**Optimise ton rameur ou assault bike pour devenir un monstre sur le tatami et ne plus céder a la fatigue.**")
 
 machines = ["Rameur", "Assault Bike"]
 fromats = {

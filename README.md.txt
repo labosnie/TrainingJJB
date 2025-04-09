@@ -23,3 +23,4 @@ L'application est désormais disponible en ligne et accessible à tous via le li
 [TrainingJJB - Streamlit App](https://trainingjjb-ymsduwnvbueyxnadaqvpul.streamlit.app/)
 
 N'hésitez pas à tester et à donner des retours !
+
