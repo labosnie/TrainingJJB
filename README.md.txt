@@ -20,6 +20,6 @@ N'hésitez pas à revenir bientôt, ou à suivre le projet pour voir les évolut
 ## 🌐 Déploiement
 
 L'application est désormais disponible en ligne et accessible à tous via le lien suivant :  
-[TrainingJJB - Streamlit App](https://<ton-pseudo>-trainingjjb.streamlit.app)
+[TrainingJJB - Streamlit App](https://trainingjjb-ymsduwnvbueyxnadaqvpul.streamlit.app/)
 
 N'hésitez pas à tester et à donner des retours !
